@@ -1,23 +1,19 @@
+.title {
+font-family: Arial;
+color: navy;
+}
+
 .nav {
   font-family: Arial;
   color: navy;
 }
+
 .main-title {
   font-family: Arial Narrow;
   color: black;
 }
 
-p {
-font-family: Arial;
-color: navy;
-}
-
 h1 {
-font-family: Arial;
-color: navy;
-}
-
-.title {
 font-family: Arial;
 color: navy;
 }
@@ -27,9 +23,20 @@ h2 {
   color: navy;
 }
 
+h3 {
+  font-family: Arial;
+  color: black;
+}
+
+p {
+font-family: Arial;
+color: black;
+}
+
 .seoul {
   float: left;
-  width: 33.33%;
+  height: 400px;
+  width: 200px;
   padding: 5px;
 }
 
