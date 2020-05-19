@@ -9,13 +9,10 @@ color: navy;
   color: navy;
 }
 
-.main-title {
+h1 {
   font-family: "Arial Narrow";
   font-size: 60px;
   color: black;
-}
-
-h1 {
 }
 
 h2 {
