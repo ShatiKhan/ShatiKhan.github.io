@@ -102,14 +102,14 @@ h3 {
 }
 
 .name {
-  max-width: 50%;
-  float: right;
-  text-align: center;
-  border: 2px solid black;
-  border-radius: 100%;
-  padding: 20px;
-  margin: 10px; 
+  height: 200px;
+  width: 200px;
   display: inline-block;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 100%;
+  padding: 25px;
+  margin: 5px; 
 }
   
 p {
