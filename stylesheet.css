@@ -4,11 +4,10 @@ color: navy;
 }
 
 .nav {
-  font-family: Arial;
+  font-family: "Arial Narrow";
   font-size: 15px;
   color: navy;
   text-align: right;
-  text-transform: capitalize;
 }
 
 .about {
