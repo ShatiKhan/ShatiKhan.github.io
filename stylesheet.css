@@ -47,10 +47,12 @@ color: black;
 }
 
 .seoul {
-  float: right;
-  height: 400px;
-  width: 200px;
+  text-align: right;
+  height: 300px;
+  width: 150px;
   padding: 5px;
+  border: 1px solid gold;
+  margin: 10px;
 }
 
 .uppercase {
