@@ -8,7 +8,7 @@ color: navy;
   font-size: 20px;
   color: navy;
   text-align: right;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
 }
 
 .about {
@@ -20,9 +20,12 @@ color: navy;
 
 h1 {
   font-family: "Arial Narrow";
-  font-size: 75px;
+  font-size: 250px;
   color: black;
-  margin: 
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 h2 {
@@ -34,7 +37,7 @@ h2 {
 h3 {
   font-family: Arial;
   font-size: 25px;
-  font-align: center;
+  text-align: right;
   color: black;
   height: 100px;
   weight: 100px;
