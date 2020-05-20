@@ -3,13 +3,13 @@ font-family: Arial;
 color: navy;
 }
 
+
 .nav {
   font-family: "Arial Narrow";
   font-size: 20px;
   color: navy;
   text-align: right;
   letter-spacing: 2px;
-  text-decoration: none;
 }
 
 .intro {
@@ -129,3 +129,18 @@ color: black;
   text-transform: bold;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: none;
+}
