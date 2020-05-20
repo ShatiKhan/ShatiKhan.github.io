@@ -103,8 +103,9 @@ h3 {
 }
 
 .name {
-  height: 200px;
-  width: 200px;
+  font-size: 15px;
+  height: 235px;
+  width: 235px;
   display: inline-block;
   text-align: center;
   border: 1px solid black;
