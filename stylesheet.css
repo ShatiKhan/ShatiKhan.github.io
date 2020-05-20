@@ -15,7 +15,8 @@ color: navy;
 .intro {
   font-size: 20px;
   max-width: 50%;
-  text-align: right;
+  text-align: ;
+  
   
 }
   
@@ -54,8 +55,8 @@ h3 {
 }
 
 .name {
-  height: 200px;
-  max-width: 50%;
+  height: 250px;
+  max-width: 250px;
   text-align: center;
   border: 2px solid black;
   border-radius: 100%;
