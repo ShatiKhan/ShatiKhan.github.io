@@ -62,13 +62,28 @@ font-size: 15px;
 color: black;
 }
 
-.seoul {
-  tright;
-  height: 300px;
-  width: 150px;
+.seoul1 {
+  height: 150px;
+  width: auto;
   padding: 5px;
   border: 1px solid gold;
-  margin: 10px;
+  margin: 0px;
+}
+
+.seoul2 {
+  height: 150px;
+  width: auto;
+  padding: 5px;
+  border: 1px solid gold;
+  margin: 0px;
+}
+
+.seoul3 {
+  height: 150px;
+  width: auto;
+  padding: 5px;
+  border: 1px solid gold;
+  margin: 0px;
 }
 
 .uppercase {
