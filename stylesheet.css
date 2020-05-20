@@ -80,7 +80,7 @@ color: black;
   position:relative;
   left: 200px;
   bottom: 200px;
-  float: left;
+  float: right;
   display: inline-block;
 }
 
@@ -93,6 +93,7 @@ color: black;
   position: relative;
   left: 100px;
   bottom: 100px;
+  float: right;
   display: inline-block;
 }
 
@@ -105,7 +106,8 @@ color: black;
   position: relative;
   left: 100px;
   bottom: 100px;
-  display: inline-block;
+  float: right;
+  display: inline-block'
 }
 
 .uppercase {
