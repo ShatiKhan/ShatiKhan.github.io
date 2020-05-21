@@ -24,7 +24,8 @@ h1 {
   margin-left: 10px;
   margin-right: 10px;
   float: left;
-  max-width: 50%
+  max-width: 50%;
+  text-align: center;
 }
 
 .intro {
@@ -33,6 +34,7 @@ h1 {
   text-align: center;
   margin: 10px;
   float: left;
+  padding-right: 10px;
 }
 
 .seoul1 {
