@@ -41,9 +41,7 @@ h1 {
   padding: 5px;
   border: 1px solid gold;
   margin: 0px;
-  float: right;
-  bottom: 300px;
-  right: 300px;
+  position: static;
 }
 
 .seoul2 {
@@ -52,7 +50,7 @@ h1 {
   padding: 5px;
   border: 1px solid gold;
   margin: 0px;
-  float: right;
+  position: static;
 }
 
 .seoul3 {
@@ -61,7 +59,7 @@ h1 {
   padding: 5px;
   border: 1px solid gold;
   margin: 0px;
-  float: right;
+  position: static;
 }
 
 h2 travel {
