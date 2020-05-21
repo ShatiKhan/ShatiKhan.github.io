@@ -73,6 +73,28 @@ h1 {
   float: left;
   padding: 10px;
   text-align: center;
+  position; static;
+}
+
+.about {
+  width: 650px;
+  height: 500px;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+  position: static;
+}
+
+.name {
+  font-size: 15px;
+  height: 235px;
+  width: 235px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 100%;
+  padding: 25px;
+  margin: 5px; 
+  position: static;
 }
 
 h2 travel {
@@ -87,35 +109,13 @@ h2 connect {
   color: navy;
 }
 
-.about {
-  width: 650px;
-  height: 500px;
-  margin: 10px;
-  padding: 10px;
-  text-align: left;
-  display: inline-block;
-}
-
 h3 {
   font-family: Arial;
   font-size: 25px;
   text-align: right;
   color: black;
   height: 100px;
-  weight: 100px;
- 
-}
-
-.name {
-  font-size: 15px;
-  height: 235px;
-  width: 235px;
-  display: inline-block;
-  text-align: center;
-  border: 1px solid black;
-  border-radius: 100%;
-  padding: 25px;
-  margin: 5px; 
+  width: 100px;
 }
   
 p {
