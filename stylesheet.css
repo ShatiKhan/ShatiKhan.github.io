@@ -52,7 +52,7 @@ h1 {
   margin: 0px;
   position: relative;
   bottom: 300px;
-  left: 450px;
+  left: 250px;
 }
 
 .seoul3 {
@@ -79,8 +79,8 @@ h2 connect {
 }
 
 .about {
-  width: 250px;
-  height: 400px;
+  width: 650px;
+  height: 500px;
   margin: 10px;
   padding: 10px;
   text-align: left;
