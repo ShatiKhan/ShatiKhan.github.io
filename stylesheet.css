@@ -50,7 +50,9 @@ h1 {
   padding: 5px;
   border: 1px solid gold;
   margin: 0px;
-  position: static;
+  position: relative;
+  bottom: 300px;
+  left: 600px;
 }
 
 .seoul3 {
