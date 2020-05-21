@@ -52,7 +52,7 @@ h1 {
   margin: 0px;
   position: relative;
   bottom: 300px;
-  left: 600px;
+  left: 750px;
 }
 
 .seoul3 {
@@ -61,7 +61,9 @@ h1 {
   padding: 5px;
   border: 1px solid gold;
   margin: 0px;
-  position: static;
+  position: relative;
+  bottom: 100px;
+  left: 850px;
 }
 
 h2 travel {
