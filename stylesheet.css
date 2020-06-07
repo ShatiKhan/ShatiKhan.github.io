@@ -38,10 +38,9 @@ h1 {
 }
 
 .seoul1 {
-  height: 450px;
+  height: 800px;
   width: auto;
   padding: 5px;
-  border: 1px solid gold;
   margin: 0px;
   position: static;
 }
