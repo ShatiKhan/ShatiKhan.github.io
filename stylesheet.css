@@ -26,6 +26,7 @@ h1 {
   float: left;
   max-width: 50%;
   text-align: center;
+  z-index: 2;
 }
 
 .intro {
@@ -35,6 +36,7 @@ h1 {
   margin: 10px;
   float: left;
   padding-right: 10px;
+  z-index: 3;
 }
 
 .seoul1 {
@@ -48,14 +50,14 @@ h1 {
 
 .shati {
   font-size: 60px;
+  max-width: 50%;
   float: left;
   padding: 10px;
   text-align: center;
-  position; static;
 }
 
 .about {
-  width: 650px;
+  max- width: 50%;
   height: 500px;
   margin: 10px;
   padding: 10px;
