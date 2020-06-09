@@ -75,19 +75,21 @@ h1 {
   border-radius: 100%;
   padding: 25px;
   margin: 5px; 
-  position: static;
+  float: left;
 }
 
 h2 travel {
   font-family: Arial;
   font-size: 30px;
   color: navy;
+  float: left;
 }
 
 h2 connect {
   font-family: Arial;
   font-size: 30px;
   color: navy;
+  float: left;
 }
 
 h3 {
