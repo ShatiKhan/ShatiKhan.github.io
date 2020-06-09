@@ -23,7 +23,7 @@ h1 {
   margin-bottom: 0px;
   margin-left: 10px;
   margin-right: 10px;
-  float: left;
+  position: static;
   max-width: 50%;
   text-align: center;
   z-index: 2;
@@ -34,7 +34,7 @@ h1 {
   max-width: 50%;
   text-align: center;
   margin: 10px;
-  float: left;
+  position: static;
   padding-right: 10px;
   z-index: 3;
 }
@@ -44,7 +44,7 @@ h1 {
   max-width: 50%;
   padding: 5px;
   margin: 0px;
-  float: right;
+  position: static;
   z-index: 1;
 }
 
@@ -52,7 +52,7 @@ h1 {
   font-size: 60px;
   max-width: 50%;
   height: auto;
-  float: left;
+  position: static;
   padding: 10px;
   text-align: center;
 }
@@ -63,7 +63,7 @@ h1 {
   margin: 10px;
   padding: 10px;
   text-align: left;
-  float: right;
+  position: static;
 }
 
 .name {
@@ -75,21 +75,21 @@ h1 {
   border-radius: 100%;
   padding: 25px;
   margin: 5px; 
-  float: left;
+  position: static;
 }
 
 h2 travel {
   font-family: Arial;
   font-size: 30px;
   color: navy;
-  float: left;
+  position: static;
 }
 
 h2 connect {
   font-family: Arial;
   font-size: 30px;
   color: navy;
-  float: left;
+  position: static;
 }
 
 h3 {
