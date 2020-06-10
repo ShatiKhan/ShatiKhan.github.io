@@ -64,7 +64,7 @@ h1 {
   margin: 10px;
   padding: 10px;
   text-align: left;
-  position: static;
+  display: inline;
 }
 
 .name {
@@ -76,21 +76,21 @@ h1 {
   border-radius: 100%;
   padding: 25px;
   margin: 5px; 
-  position: static;
+  display: inline;
 }
 
 h2 travel {
   font-family: Arial;
   font-size: 30px;
   color: navy;
-  position: static;
+  display: inline;
 }
 
 h2 connect {
   font-family: Arial;
   font-size: 30px;
   color: navy;
-  position: static;
+  display: inline;
 }
 
 h3 {
