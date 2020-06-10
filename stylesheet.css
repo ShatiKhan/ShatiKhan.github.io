@@ -9,6 +9,7 @@ color: navy;
   color: navy;
   text-align: right;
   word-spacing: 10px;
+  padding-left: 10px;
 }
 
 .nav a {
@@ -23,7 +24,7 @@ h1 {
   margin-bottom: 0px;
   margin-left: 10px;
   margin-right: 10px;
-  position: static;
+  display: inline;
   max-width: 50%;
   text-align: center;
   z-index: 2;
@@ -34,7 +35,7 @@ h1 {
   max-width: 50%;
   text-align: center;
   margin: 10px;
-  position: static;
+  display: inline;
   padding-right: 10px;
   z-index: 3;
 }
@@ -52,7 +53,7 @@ h1 {
   font-size: 60px;
   max-width: 50%;
   height: auto;
-  position: static;
+  display: inline;
   padding: 10px;
   text-align: center;
 }
