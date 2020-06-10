@@ -35,7 +35,7 @@ h1 {
   text-align: center;
   z-index: 2;
   border: 1px solid black;
-  float: left;
+  position: static;
 }
 
 .intro {
