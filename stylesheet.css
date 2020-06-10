@@ -24,6 +24,13 @@ color: navy;
   align-items: center;
 }
 
+.aboutbanner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
 h1 {
   font-family: "Arial Narrow";
   font-size: 90px;
