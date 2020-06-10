@@ -30,6 +30,7 @@ h1 {
   border: 1px solid black;
   display: flex;
   padding-right: 2px;
+  position: relative;
 }
 
 .seoul1 {
