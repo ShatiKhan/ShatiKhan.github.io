@@ -60,7 +60,6 @@ h1 {
   font-size: 60px;
   max-width: 50%;
   height: auto;
-  position: static;
   padding: 10px;
   text-align: center;
   border: 1px solid black;
@@ -71,7 +70,6 @@ h1 {
   height: auto;
   margin: 10px;
   padding: 10px;
-  float: right;
   border: 1px solid black;
 }
 
