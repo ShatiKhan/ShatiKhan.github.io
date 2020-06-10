@@ -30,7 +30,7 @@ h1 {
   margin-bottom: 0px;
   margin-left: 10px;
   margin-right: 10px;
-  display: inline;
+  position: static;
   max-width: 50%;
   text-align: center;
   z-index: 2;
@@ -88,14 +88,14 @@ h2 travel {
   font-family: Arial;
   font-size: 30px;
   color: navy;
-  display: inline;
+  position: static;
 }
 
 h2 connect {
   font-family: Arial;
   font-size: 30px;
   color: navy;
-  display: inline;
+  position: static;
 }
 
 h3 {
