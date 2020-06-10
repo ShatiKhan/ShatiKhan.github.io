@@ -63,7 +63,7 @@ h1 {
   font-size: 60px;
   max-width: 50%;
   height: auto;
-  float: left;
+  position: static;
   padding: 10px;
   text-align: center;
   border: 1px solid black;
