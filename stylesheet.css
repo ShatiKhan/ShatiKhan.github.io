@@ -19,7 +19,7 @@ color: navy;
 
 .banner {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   justify-content: space-evenly;
   align-items: center;
 }
