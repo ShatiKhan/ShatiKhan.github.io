@@ -45,7 +45,7 @@ h1 {
   max-width: 50%;
   padding: 5px;
   margin: 0px;
-  float: right;
+  display: inline;
   z-index: 1;
 }
 
