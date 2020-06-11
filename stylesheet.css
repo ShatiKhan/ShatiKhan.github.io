@@ -25,6 +25,7 @@ color: navy;
   align-items: center;
   max-width: 100%;
   height: auto;
+  margin: 20x;
 }
 
 .aboutbanner {
@@ -33,16 +34,17 @@ color: navy;
   justify-content: center;
   align-items: center;
   max-width: 100%;
+  margin: 20px;
 }
 
 h1 {
   font-family: 'Cabin', sans-serif;
   font-weight: 600;
-  font-size: 110px;
+  font-size: 100px;
   color: black;
   margin-top: 150px;
   margin-bottom: 150px;
-  max-width: 40%;
+  max-width: 45%;
   height: auto;
   text-align: center;
   flex-grow: 1;
@@ -50,9 +52,9 @@ h1 {
 
 .seoul1 {
   height: auto;
-  max-width: 60%;
+  max-width: 55%;
   padding: 5px;
-  margin: 0px;
+  margin-right: 20px;
   flex-grow: 1;
 }
 
