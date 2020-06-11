@@ -1,11 +1,11 @@
 
 .title {
-font-family: Arial;
+font-family: 'Cabin';
 color: navy;
 }
 
 .nav {
-  font-family: "Arial Narrow";
+  font-family: 'Cabin', sans-serif, 400;
   font-size: 20px;
   color: navy;
   text-align: right;
@@ -34,7 +34,7 @@ color: navy;
 }
 
 h1 {
-  font-family: Cabin;
+  font-family: 'Cabin', sans-serif, 600;
   font-size: 90px;
   color: black;
   margin-top: 150px;
@@ -55,6 +55,7 @@ h1 {
 
 
 .shati {
+  font-family:'Cabin', sans-serif, 600;
   font-size: 60px;
   max-width: 50%;
   height: auto;
