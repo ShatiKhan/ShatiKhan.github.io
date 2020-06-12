@@ -5,7 +5,7 @@ color: navy;
 }
 
 .nav {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: navy;
@@ -38,7 +38,7 @@ color: navy;
 }
 
 h1 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   font-weight: 600;
   font-size: 100px;
   color: black;
@@ -59,7 +59,7 @@ h1 {
 }
 
 .shati {
-  font-family:'Cabin', sans-serif; 
+  font-family:'Catamaran', sans-serif; 
   font-weight: 500;
   font-size: 60px;
   max-width: 50%;
@@ -71,6 +71,8 @@ h1 {
 }
 
 .about {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
   max-width: 50%;
   height: auto;
   margin: 10px;
@@ -115,7 +117,7 @@ h3 {
 }
   
 p {
-font-family: "Arial Narrow";
+font-family: "PT Sans", sans-serif;
 font-size: 20px;
 color: black;
 }
