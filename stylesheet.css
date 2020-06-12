@@ -15,8 +15,7 @@ color: navy;
 
 .nav a {
   padding-right: 20px;
-  border: 1px solid black;
-  word-spacing: 10px;
+  padding-left: 20px;
 }
 
 .banner {
@@ -28,7 +27,7 @@ color: navy;
   height: auto;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 30px;
+  margin-top: 75px;
   
 }
 
@@ -48,10 +47,12 @@ h1 {
   color: black;
   margin-top: 150px;
   margin-bottom: 150px;
+  margin-right: 20px;
   max-width: 45%;
   height: auto;
   text-align: center;
   flex-grow: 1;
+  line-height: 20%;
 }
 
 .seoul1 {
