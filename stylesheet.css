@@ -26,7 +26,10 @@ color: navy;
   align-items: center;
   max-width: 100%;
   height: auto;
-  margin: 20x;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  
 }
 
 .aboutbanner {
