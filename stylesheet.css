@@ -39,6 +39,7 @@ color: navy;
   max-width: 100%;
   margin-left: 40px;
   margin-right: 40px;
+  border: 1px solid black;
 }
 
 h1 {
