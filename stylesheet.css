@@ -90,6 +90,8 @@ h1 {
 
 .name {
   font-size: 15px;
+  background-color: black;
+  font-color: white;
   height: 235px;
   width: 235px;
   text-align: center;
@@ -97,7 +99,7 @@ h1 {
   border-radius: 100%;
   padding: 25px;
   margin: 5px; 
-  position: static;
+  position: relative;
   
 }
 
