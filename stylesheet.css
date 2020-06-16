@@ -62,8 +62,7 @@ h1 {
 
 .seoul1 {
   height: auto;
-  max-width: 45%;
-  padding: 15px;
+  max-width: 50%;
   margin-right: 20px;
   flex-grow: 1;
 }
