@@ -99,7 +99,10 @@ h1 {
   border-radius: 100%;
   padding: 25px;
   margin: 5px; 
-  float: left;
+  float: right;
+  z-index: 1;
+  position: relative;
+  bottom: 20px;
 }
 
 h2 travel {
