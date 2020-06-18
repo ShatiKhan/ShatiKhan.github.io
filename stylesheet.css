@@ -118,6 +118,12 @@ h1 {
   margin-botton: 20px;
 }
 
+.img {
+  max-width: 25%;
+  height: auto;
+  margin: 10px;
+}
+
 h2 travel {
   font-family: Arial;
   font-size: 30px;
