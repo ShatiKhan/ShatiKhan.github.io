@@ -34,12 +34,12 @@ color: navy;
 .aboutbanner {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   max-width: 100%;
   margin-left: 40px;
   margin-right: 40px;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-botton: 20px;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
@@ -82,7 +82,7 @@ h1 {
   font-family: "PT Sans", sans-serif;
   font-size: 18px;
   font-weight: 250px;
-  max-width: 80%;
+  max-width: 75%;
   height: auto;
   margin: 10px;
   padding: 10px;
@@ -115,7 +115,7 @@ h1 {
   height: 1000px;
   margin-left: 40px;
   margin-right: 40px;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-botton: 20px;
 }
 
