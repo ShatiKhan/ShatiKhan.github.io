@@ -35,7 +35,7 @@ color: navy;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: center;
+  align-items: right;
   max-width: 100%;
   margin-left: 40px;
   margin-right: 40px;
@@ -67,7 +67,7 @@ h1 {
   flex-grow: 1;
 }
 
-.hey {
+.h2 {
   font-family: 'PT Sans', sans-serif;
   font-size: 24px;
   font-weight: 300px;
@@ -75,7 +75,7 @@ h1 {
   height: auto;
 
 .about {
-  font-family: "PT Sans", sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 18px;
   font-weight: 250px;
   max-width: 75%;
