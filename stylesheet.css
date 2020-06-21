@@ -70,16 +70,18 @@ h1 {
 h2 {
   font-family: 'PT Sans', sans-serif;
   font-size: 24px;
-  font-weight: 300px;
-  max-width: 75%;
+  font-weight: 250px;
+  max-width: 70%;
   height: auto;
+  margin: 10px;
+  padding: 10px;
 }
 
 .about {
   font-family: 'PT Sans', sans-serif;
   font-size: 18px;
   font-weight: 250px;
-  max-width: 75%;
+  max-width: 70%;
   height: auto;
   margin: 10px;
   padding: 10px;
@@ -88,30 +90,32 @@ h2 {
 .callout {
   background-color: black;
   color: white;
-  height: 250px;
-  width: 250px;
+  height: 300px;
+  width: 300px;
   text-align: center;
   border: 1px solid black;
   border-radius: 100%;
   padding: 25px;
   margin: 5px; 
   float: right;
-  z-index: 1;
   position: relative;
   bottom: 250px;
   right: 50px;
+  z-index: 2;
 }
 
 .why {
   font-size: 16px;
   font-weight: 300px;
   font-family: 'PT Sans', sans-serif;
+  z-index: 1;
   }
   
 .name {
   font-size: 16px;
   font-weight: 300px;
   font-family: 'PT Sans', sans-serif;
+   z-index: 1;
   }
   
 .camera_roll {
