@@ -91,9 +91,9 @@ h2 {
   padding: 10px;
 }
 
-.callout {
+.name {
   font-size: 16px;
-  font-weight: 300px;
+  font-weight: 200px;
   font-family: 'PT Sans', sans-serif;
   background-color: black;
   color: white;
@@ -106,17 +106,10 @@ h2 {
   margin: 5px; 
   float: right;
   position: relative;
-  bottom: 250px;
+  bottom: 300px;
   right: 50px;
   z-index: 1;
 }
-  
-.name {
-  font-size: 16px;
-  font-weight: 300px;
-  font-family: 'PT Sans', sans-serif;
-  z-index: 2;
-  }
   
 .camera_roll {
   display: flex;
