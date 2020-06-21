@@ -142,14 +142,12 @@ img {
   margin: 10px;
 }
 
+.connect {
+  display: flex;
+  justify-content: center;
+} 
+  
 h2 travel {
-  font-family: Arial;
-  font-size: 30px;
-  color: navy;
-  position: static;
-}
-
-h2 connect {
   font-family: Arial;
   font-size: 30px;
   color: navy;
