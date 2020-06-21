@@ -97,8 +97,8 @@ h2 {
   font-family: 'PT Sans', sans-serif;
   background-color: black;
   color: white;
-  height: 300px;
-  width: 300px;
+  height: 275px;
+  width: 275px;
   text-align: center;
   border: 1px solid black;
   border-radius: 100%;
@@ -106,7 +106,7 @@ h2 {
   margin: 5px; 
   float: right;
   position: relative;
-  bottom: 300px;
+  bottom: 350px;
   right: 50px;
   z-index: 1;
 }
@@ -138,6 +138,20 @@ img {
   height: auto;
 } 
   
+h3 {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 24px;
+  font-weight: 250px;
+  max-width: 100%;
+  height: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
 p {
 font-family: "PT Sans", sans-serif;
 font-size: 20px;
