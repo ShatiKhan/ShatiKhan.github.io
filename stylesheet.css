@@ -68,7 +68,7 @@ h2 {
   font-family: 'Catamaran', sans-serif;
   font-size: 24px;
   font-weight: 250px;
-  max-width: 70%;
+  max-width: 100%;
   height: auto;
   margin-left: 10px;
   margin-right: 10px;
@@ -76,7 +76,7 @@ h2 {
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
-  border: 1px solid black;
+  border-top: 1px solid black;
 }
 
 .about {
@@ -85,12 +85,10 @@ h2 {
   font-weight: 250px;
   max-width: 70%;
   height: auto;
-  margin: 10px;
   margin-left: 10px;
   margin-right: 10px;
   margin-botton: 10px;
-  padding: 10px;
-  border: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .name {
