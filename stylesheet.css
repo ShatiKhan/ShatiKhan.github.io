@@ -152,6 +152,13 @@ h3 {
   padding-top: 10px;
 }
 
+.icon {
+ height: 250px;
+ width: 250px;
+ border-radius: 100%
+ border: 1px solid black;
+}
+
 p {
 font-family: "PT Sans", sans-serif;
 font-size: 20px;
