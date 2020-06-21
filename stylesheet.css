@@ -28,7 +28,6 @@ color: navy;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 75px;
-  
 }
 
 .aboutbanner {
@@ -68,7 +67,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   font-size: 24px;
   font-weight: 200;
   max-width: 70%;
@@ -80,7 +79,7 @@ h2 {
 }
 
 .about {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   font-size: 18px;
   font-weight: 250px;
   max-width: 70%;
@@ -93,6 +92,9 @@ h2 {
 }
 
 .callout {
+  font-size: 16px;
+  font-weight: 300px;
+  font-family: 'PT Sans', sans-serif;
   background-color: black;
   color: white;
   height: 300px;
@@ -108,19 +110,12 @@ h2 {
   right: 50px;
   z-index: 1;
 }
-
-.why {
-  font-size: 16px;
-  font-weight: 300px;
-  font-family: 'PT Sans', sans-serif;
-  z-index: 2;
-  }
   
 .name {
   font-size: 16px;
   font-weight: 300px;
   font-family: 'PT Sans', sans-serif;
-   z-index: 2;
+  z-index: 2;
   }
   
 .camera_roll {
@@ -145,26 +140,8 @@ img {
 .connect {
   display: flex;
   justify-content: center;
+  text
 } 
-  
-h2 travel {
-  font-family: Arial;
-  font-size: 30px;
-  color: navy;
-  position: static;
-}
-
-h3 {
-  font-weight: 500;
-  font-size: 60px;
-}
-
-h4 {
-  font-size: 16px;
-  background-color: black;
-  color: white;
-}
-  
   
 p {
 font-family: "PT Sans", sans-serif;
